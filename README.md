@@ -1,0 +1,2 @@
+# genshin-supplemental-dictionaries
+米蔵さん制作の原神用語辞書を追補するためのGoogle日本語入力/Mozc向け辞書
